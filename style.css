@@ -1,0 +1,134 @@
+body{
+  background-color:   #14171A;
+}
+.container-fluid{   
+    display: flex;
+max-width: 1340px;
+ width: 100%;
+ margin: 0 auto;
+}
+.elementscontainer{
+ padding-right: 20px;
+ padding-top: 10px;
+}
+.home,.twittericon,.explore,.notification,.messages,.bookmarks,.profile,.more,.lists{
+    padding-bottom: 1.5rem;
+    color:  #FFFFFF;;
+}
+span a{
+    font-family: sans-serif;
+ font-weight: 900;
+ padding-left: 14px;
+ font-size: larger;
+text-decoration: none;
+color: #FFFFFF;;
+}
+span a:hover{
+    color: #1DA1F2;
+}
+.tweet-btn{
+    background-color: #1DA1F2;
+    color:  #FFFFFF;
+    font-size: larger;
+    padding: 0.4rem 5rem;
+    border-radius: 25px;
+    border: none;
+}
+.dsc-jssaten{
+    display:flex;
+    align-items: center;
+    padding-left: 19px;
+}
+.dsc-jssaten span{
+    padding-left: 2rem;
+    font-weight: 900;
+    font-size: 1.5rem;
+    color:  #FFFFFF;;
+}
+.dsc-jssaten span div{
+    font-weight: normal;
+    font-size: 1rem;
+    color:  #FFFFFF;
+}
+.dsc-img-and-follow{
+    display: flex;
+    justify-content: space-between;
+}
+.dsc-logo{
+    width: 150px;
+    border-radius: 50%;
+    position: relative;
+    left:20px;
+    bottom:75px;
+    border:5px solid black;
+
+}
+.buttons{
+    padding: 0.1rem;
+    display: flex;
+    align-items: center;
+}
+.followbtn{
+    background-color: #14171A;
+    color: #1DA1F2;
+    border:solid 2px  #1DA1F2;
+    border-radius: 20%;
+    padding: 11px;
+}
+.fa-ellipsis-h,.myenvo{
+    border:1px solid #1DA1F2;
+    padding: 7px;
+    border-radius: 50%;
+}
+.dots3,.msg,.followbtn-wrapper{
+    padding: 5px;
+}
+.posterimg{
+    width:99%;
+}
+.search-box{
+    padding: 1rem;
+}
+div.info1{
+    position: relative;
+    bottom: 4.1rem;
+    left: 36px;
+    font-weight: 800;
+    font-size: 1.5rem;
+    color: #FFFFFF;
+}
+div.info1 span div{
+    font-weight: normal;
+    font-size: 1rem;
+    color:  #FFFFFF;
+}
+.dscinfohead{
+    font-weight: normal;
+    font-size: 1rem;
+    color:  #FFFFFF;
+}
+.dscinfohead p{
+    margin: 0;
+}
+section.info{
+  border: 0.5px solid #E1E8ED;
+}
+.pragati_verma18,.modalboxtext{
+    color: #1DA1F2;
+}
+.follow{
+    padding-right:13px;
+    text-decoration: none;
+    color:#FFFFFF ;
+}
+.modal-content{
+background-color: #14171A;
+}
+span.cross{
+    color: #1DA1F2;
+}
+.form-control{
+    width: fit-content;
+    border-radius: 19px;
+    background-color:#a9a9a9;
+}
